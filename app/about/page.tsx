@@ -27,7 +27,7 @@ export default function AboutPage() {
         </p>
 
         <div>
-          <p>Advisory roles since 2019:</p>
+          <p>Selected advisory roles since 2019:</p>
           <ul className="mt-4 space-y-3 pl-0">
             <li>
               <span className="font-medium">Beyond Imagination Inc.</span> — Non-Executive Advisor
