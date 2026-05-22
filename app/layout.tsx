@@ -2,6 +2,8 @@ import type { Metadata } from "next";
 import { EB_Garamond, Inter } from "next/font/google";
 import Link from "next/link";
 import Image from "next/image";
+import { Analytics } from "@vercel/analytics/next";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 import "./globals.css";
 
 const ebGaramond = EB_Garamond({
@@ -72,6 +74,8 @@ export default function RootLayout({
             <p className="mt-4">© {new Date().getFullYear()} Fairbourne Capital.</p>
           </div>
         </footer>
+        <Analytics />
+        <SpeedInsights />
       </body>
     </html>
   );
