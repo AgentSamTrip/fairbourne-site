@@ -18,7 +18,7 @@ const essays = [
   {
     slug: "wework-exception",
     title: "WeWork Was the Exception, Not the New Rule",
-    dek: "The staying-private-for-longer thesis, written in the days after WeWork's failed IPO. Republished from October 2019.",
+    dek: "The staying-private-for-longer thesis, written days after WeWork's failed IPO. Now relevant again as SpaceX approaches a $2 trillion IPO.",
     date: "October 2019",
   },
 ];
