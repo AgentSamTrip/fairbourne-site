@@ -235,6 +235,20 @@ export default function AISubstratePage() {
       </div>
 
       {/* ============================================================
+          LINKEDIN DISCUSSION LINK
+      ============================================================ */}
+
+      <p className="mt-10 text-sm italic text-[var(--color-muted)]">
+        <a
+          href="https://www.linkedin.com/posts/jason-triplitt-cfa_privatecredit-investmentmanagement-aiinfinance-share-7463554300737114112-0Mf4"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Discussion on LinkedIn →
+        </a>
+      </p>
+
+      {/* ============================================================
           SUBSCRIBE AFFORDANCE
       ============================================================ */}
 
