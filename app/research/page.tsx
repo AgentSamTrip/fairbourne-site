@@ -15,7 +15,12 @@ const essays = [
     dek: "The case for a knowledge wiki.",
     date: "22 May 2026",
   },
-  // Future essays added here.
+  {
+    slug: "wework-exception",
+    title: "WeWork Was the Exception, Not the New Rule",
+    dek: "The staying-private-for-longer thesis, written in the days after WeWork's failed IPO. Republished from October 2019.",
+    date: "October 2019",
+  },
 ];
 
 // =============================================================================
